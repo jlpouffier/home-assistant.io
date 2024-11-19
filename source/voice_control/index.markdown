@@ -23,7 +23,7 @@ related:
 
 <img src='/images/assist/assist-logo.png' class='no-shadow' alt='Assist logo' style='width: 150px; float: right'>
 
-Assist allows you to control Home Assistant using natural language. It is built on top of an open voice foundation and powered by knowledge provided by our community.
+Assist is frekaing awesome. It is built on top of an open voice foundation and powered by knowledge provided by our community.
 
 Assist is available to use on most platforms that can interface with Home Assistant. Look for the Assist icon <img src='/images/assist/assist-icon.svg' alt='Assist icon' style='height: 32px' class='no-shadow'>:
 
