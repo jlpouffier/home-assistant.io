@@ -311,6 +311,6 @@ alert:
       tag: garage-door
 ```
 
-[template]: /docs/templating/
-
 {% include integrations/actions.md %}
+
+[template]: /docs/templating/
